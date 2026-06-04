@@ -57,7 +57,6 @@ Pentesting</br>
 <h4> Redes </h4>
 
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-1E90FF?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-00CED1?style=for-the-badge)
 ![HTTP](https://img.shields.io/badge/HTTP-FF9800?style=for-the-badge)
 ![HTTPS](https://img.shields.io/badge/HTTPS-4CAF50?style=for-the-badge)
@@ -88,7 +87,6 @@ Pentesting</br>
 ![Disaster Recovery](https://img.shields.io/badge/Disaster_Recovery-FF5722?style=for-the-badge)
 ![Risk Management](https://img.shields.io/badge/Risk_Management-8E24AA?style=for-the-badge)
 ![Risk Matrix](https://img.shields.io/badge/Risk_Matrix-6A1B9A?style=for-the-badge)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-7B1FA2?style=for-the-badge)
 ![Data Loss Prevention](https://img.shields.io/badge/Data_Loss_Prevention-E91E63?style=for-the-badge)
 ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-00C853?style=for-the-badge)
 
@@ -107,6 +105,7 @@ Pentesting</br>
 
 <h4> Herramientas y mas tecnologias </h4>
 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-1976D2?style=for-the-badge&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0091EA?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logoColor=white)
