@@ -55,23 +55,42 @@ Pentesting</br>
 </span>
 
 <h4> Redes </h4>
-<span>
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue)
-![DNS](https://img.shields.io/badge/DNS-Networking-blue)
-![HTTP](https://img.shields.io/badge/HTTP-Web-orange)
-![HTTPS](https://img.shields.io/badge/HTTPS-Secure-green)
-![VPN](https://img.shields.io/badge/VPN-Network_Security-success)
-![Routing](https://img.shields.io/badge/Routing-Networks-blueviolet)
-![Switching](https://img.shields.io/badge/Switching-Networks-blueviolet)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?logo=cisco&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-Studying-blue?logo=cisco&logoColor=white)
-</span>
+
+![TCP/IP](https://img.shields.io/badge/TCP/IP-1E90FF?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-00CED1?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP-FF9800?style=for-the-badge)
+![HTTPS](https://img.shields.io/badge/HTTPS-4CAF50?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-00C853?style=for-the-badge)
+![Routing](https://img.shields.io/badge/Routing-3F51B5?style=for-the-badge)
+![Switching](https://img.shields.io/badge/Switching-673AB7?style=for-the-badge)
+![OSI Model](https://img.shields.io/badge/OSI_Model-9C27B0?style=for-the-badge)
+![IPv4](https://img.shields.io/badge/IPv4-2196F3?style=for-the-badge)
+![IPv6](https://img.shields.io/badge/IPv6-1565C0?style=for-the-badge)
+![Subnetting](https://img.shields.io/badge/Subnetting-0D47A1?style=for-the-badge)
+![NAT](https://img.shields.io/badge/NAT-1976D2?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-1565C0?style=for-the-badge)
 
 <h4> Ciberseguridad</h4>
-<span>
-  
-</span>
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-FF5722?style=for-the-badge)
+![IDS](https://img.shields.io/badge/IDS-FF1744?style=for-the-badge)
+![IPS](https://img.shields.io/badge/IPS-D50000?style=for-the-badge)
+![WAF](https://img.shields.io/badge/WAF-FF6D00?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/SIEM-00C853?style=for-the-badge)
+![EDR](https://img.shields.io/badge/EDR-00E676?style=for-the-badge)
+![XDR](https://img.shields.io/badge/XDR-64DD17?style=for-the-badge)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-7B1FA2?style=for-the-badge)
+![MFA](https://img.shields.io/badge/MFA-8E24AA?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-6A1B9A?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-FFC107?style=for-the-badge&logoColor=black)
+![Disaster Recovery](https://img.shields.io/badge/Disaster_Recovery-FF5722?style=for-the-badge)
+![Risk Management](https://img.shields.io/badge/Risk_Management-8E24AA?style=for-the-badge)
+![Risk Matrix](https://img.shields.io/badge/Risk_Matrix-6A1B9A?style=for-the-badge)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-7B1FA2?style=for-the-badge)
+![Data Loss Prevention](https://img.shields.io/badge/Data_Loss_Prevention-E91E63?style=for-the-badge)
+![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-00C853?style=for-the-badge)
 
 <h4> Sistemas operativos </h4>
 <span>
@@ -87,6 +106,16 @@ Pentesting</br>
 </span>
 
 <h4> Herramientas y mas tecnologias </h4>
+
+![Nmap](https://img.shields.io/badge/Nmap-1976D2?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0091EA?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logoColor=white)
+![UML](https://img.shields.io/badge/UML-009688?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-D50000?style=for-the-badge)
+![iptables](https://img.shields.io/badge/iptables-326CE5?style=for-the-badge)
+![nftables](https://img.shields.io/badge/nftables-1976D2?style=for-the-badge)
+
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
